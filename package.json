@@ -1,0 +1,26 @@
+{
+    "name": "paypaltakehome",
+    "displayName": "PaypalTakeHome",
+    "version": "1.0.0",
+    "description": "An application that loads the paypal google results page by making an xmlhttprequest call bypassing the CORs security.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ramakrishnan Ganesan",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "cordova-android": "^7.1.4",
+        "cordova-ios": "^4.5.5",
+        "cordova-plugin-whitelist": "^1.3.3"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-whitelist": {}
+        },
+        "platforms": [
+            "ios",
+            "android"
+        ]
+    }
+}

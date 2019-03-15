@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/c009694/Documents/workspace/Paypal_takehome/cordova/paypal_takehome/platforms/android/CordovaLib/assets"/><source path="/Users/c009694/Documents/workspace/Paypal_takehome/cordova/paypal_takehome/platforms/android/CordovaLib/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/c009694/Documents/workspace/Paypal_takehome/cordova/paypal_takehome/platforms/android/CordovaLib/src/debug/assets"/></dataSet></merger>

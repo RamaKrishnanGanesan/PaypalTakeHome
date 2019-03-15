@@ -1,0 +1,4 @@
+#Thu Mar 14 23:14:17 PDT 2019
+base.0=/Users/c009694/Documents/workspace/Paypal_takehome/cordova/paypal_takehome/platforms/android/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
